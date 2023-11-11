@@ -1,0 +1,29 @@
+.hw{
+    width: 400px;
+    height: 600x;
+    text-indent: 30px;
+    line-height: 30px;
+}
+h1{
+    color: blue;
+    text-align: center;
+    
+}
+h2{
+    color: blue;
+    text-align: center;
+    
+}
+h3{
+    color: blue;
+    text-align: center;
+    
+}
+.red{
+    color: red;
+    font-weight: bold;
+}
+.blue{
+    color: blue;
+    font-style: italic;
+}
